@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+mintapi = "*"
+gspread = "*"
+df2gspread = "*"
+oauth2client = "*"
+pandas = "*"
+
+
+
+[requires]
+python_version = "3.8"
